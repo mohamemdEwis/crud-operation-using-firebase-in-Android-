@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63421885237",
+    "firebase_url": "https://internapp-ffef9.firebaseio.com",
+    "project_id": "internapp-ffef9",
+    "storage_bucket": "internapp-ffef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63421885237:android:1a7a30a2ce307139527a7c",
+        "android_client_info": {
+          "package_name": "com.example.intern_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63421885237-b2kajvl68l57g367r1kokut6hbifj1h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdD9_ecWd9oa-oUHoXlpR20dbKagDoC9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63421885237-b2kajvl68l57g367r1kokut6hbifj1h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
